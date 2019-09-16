@@ -1,3 +1,26 @@
+Electrical and Computer Engineering Department
+
+Tarbiat Modares University
+
+Tehran, Iran
+
+# Time/Location
+
+# Instructor
+Dr. Foad Ghaderi
+
+# Course Assistants ....
+
+# Course Description
+
+# Prerequisites
+
+# Syllabus (tentative, periodically updated throughout the quarter)
+
+# BOOKS AND REFERENCES
+
+
+# Grading Policy
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/fghaderi/fghaderi.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
