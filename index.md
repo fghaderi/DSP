@@ -1,14 +1,11 @@
-Electrical and Computer Engineering Department
-
-Tarbiat Modares University
-
-Tehran, Iran
-
-# Time/Location
-
 # Instructor
 Dr. Foad Ghaderi
 
+Electrical and Computer Engineering Department\
+Tarbiat Modares University/
+Tehran, Iran
+
+# Time/Location
 # Course Assistants ....
 
 # Course Description
