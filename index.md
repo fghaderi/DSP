@@ -6,27 +6,8 @@ Dr. Foad Ghaderi
   Tehran, Iran
 
 
-<table border="0">
-    <tr>
-        <td>
-# Instructor
-Dr. Foad Ghaderi
-
-  Electrical and Computer Engineering Department  
-  Tarbiat Modares University  
-  Tehran, Iran      
-        </td>
-        <td>
 # Time/Location
-</td>
-    </tr>
-    <tr>
-        <td>Foo3</td>
-    </tr>
-</table>
 
-
-# Time/Location
 # Course Assistants ....
 
 # Course Description
