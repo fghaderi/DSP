@@ -6,10 +6,6 @@ Dr. Foad Ghaderi
   Tehran, Iran
 
 
-<!–– # Time/Location
-
-# Course Assistants .... -->
-
 # Course Description
 
 # Prerequisites
