@@ -15,9 +15,9 @@ In the era that many aspects of human life can be muasured using different senso
 - Basic concepts of signals and systems (the required concpets will be reviewed at the begining of the course).
 - Basic programming knowledge (programming will be in python).
 
-# Syllabus
-(tentative, periodically updated throughout the semester)
-
+# Syllabus ###(tentative, periodically updated throughout the semester)
+- Introduction [slide1](http://cloud.modares.ac.ir/public.php?service=files&t=e16670cc7cf8d8c5c4c7f447691a0b5e)
+- Signals and Systems [slide2](http://cloud.modares.ac.ir/public.php?service=files&t=88dd4870c34c0dcc8e7d68dcb3259798)
 
 
 # BOOKS AND REFERENCES
