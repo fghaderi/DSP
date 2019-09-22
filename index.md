@@ -4,11 +4,11 @@ Dr. Foad Ghaderi
   Electrical and Computer Engineering Department  
   Tarbiat Modares University  
   Tehran, Iran  
-  email:fghaderi[at]modares.ac.ir  
+  email: fghaderi[at]modares.ac.ir  
   [quera](https://quera.ir/course/3649/)
 
 # Course Description
-In the era that many aspects of human life can be muasured using different sensors, it is essential for anyone whose work is related to analyzing data to be familiar with basic signal processing techniques. In this course, we focus on concepts and principles underlying discrete-time signal processing. Along with the required mathematical basis, practical applications of the methods will be reviewd through programming examples and exercises.
+In the era that many aspects of human life can be muasured using different sensors, it is essential for anyone whose work is related to analyzing data to be familiar with signal processing techniques. In this course, we focus on basic concepts and principles underlying discrete-time signal processing. Along with the required mathematical basis, practical applications of the methods will be reviewd through programming examples and exercises.
 
 
 # Prerequisites
