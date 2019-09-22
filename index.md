@@ -15,10 +15,19 @@ In the era that many aspects of human life can be muasured using different senso
 - Basic concepts of signals and systems (the required concpets will be reviewed at the begining of the course).
 - Basic programming knowledge (programming will be in python).
 
-# Syllabus ###(tentative, periodically updated throughout the semester)
+# Syllabus  
+tentative, periodically updated throughout the semester  
 - Introduction [slide1](http://cloud.modares.ac.ir/public.php?service=files&t=e16670cc7cf8d8c5c4c7f447691a0b5e)
 - Signals and Systems [slide2](http://cloud.modares.ac.ir/public.php?service=files&t=88dd4870c34c0dcc8e7d68dcb3259798)
+- Z transform [slide3](http://cloud.modares.ac.ir/public.php?service=files&t=a30b6268ae771fdfd985834701a32873)
+- Fourier representation of signals [slide4](http://cloud.modares.ac.ir/public.php?service=files&t=e81ded0f65fd541c46fad6be82590c06)
+- Transform analysis of LTI systems [slide5](http://cloud.modares.ac.ir/public.php?service=files&t=4ba50c84b470d16c1bcba22664e69f10)
+- Sampling of continuous-time signals [slide6](http://cloud.modares.ac.ir/public.php?service=files&t=1bc96cb81123553274f0eba3e8cf1519)
+- Design of FIR filters [slide7](http://cloud.modares.ac.ir/public.php?service=files&t=6c4f868b0af3e366d765a4df84338637)
+- Design of IIR filters [slide8](http://cloud.modares.ac.ir/public.php?service=files&t=a8b3717fc43c7ca57829a2085a82fac5)
 
+
+_books and
 
 # BOOKS AND REFERENCES
 
