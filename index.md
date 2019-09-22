@@ -8,8 +8,12 @@ Dr. Foad Ghaderi
   quera: 
 
 # Course Description
+In the era that many aspects of human life can be muasured using different sensors, it is essential for anyone whose work is related to analyzing data to be familiar with basic signal processing techniques. In this course, we focus on concepts and principles underlying discrete-time signal processing. Along with the required mathematical basis, practical applications of the methods will be reviewd through programming examples and exercises.
+
 
 # Prerequisites
+- Basic concepts of signals and systems (the required concpets will be reviewed at the begining of the course).
+- Basic programming knowledge (programming will be in python).
 
 # Syllabus (tentative, periodically updated throughout the quarter)
 
