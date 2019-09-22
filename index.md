@@ -15,7 +15,10 @@ In the era that many aspects of human life can be muasured using different senso
 - Basic concepts of signals and systems (the required concpets will be reviewed at the begining of the course).
 - Basic programming knowledge (programming will be in python).
 
-# Syllabus (tentative, periodically updated throughout the quarter)
+# Syllabus
+(tentative, periodically updated throughout the semester)
+
+
 
 # BOOKS AND REFERENCES
 
