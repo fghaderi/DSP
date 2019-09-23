@@ -27,48 +27,18 @@ Tentative, periodically updated throughout the semester
 - Design of IIR filters [slide8](http://cloud.modares.ac.ir/public.php?service=files&t=a8b3717fc43c7ca57829a2085a82fac5)
 
 
-
-
 # BOOKS AND REFERENCES
-o Manolakis, Dimitris G., and Vinay K. Ingle. Applied digital signal processing: theory and practice. Cambridge University Press, 2011. [Cambridge University Press](https://www.cambridge.org/ir/academic/subjects/engineering/communications-and-signal-processing/applied-digital-signal-processing-theory-and-practice?format=HB)  
-o Downey, Allen B. Think DSP: digital signal processing in Python. " O'Reilly Media, Inc.", 2016. [github](https://github.com/AllenDowney/ThinkDSP)  
-o Unpingco, José. Python for Signal Processing. Springer International Pu, 2016.[springer](https://www.springer.com/gp/book/9783319013411)
+- Manolakis, Dimitris G., and Vinay K. Ingle. Applied digital signal processing: theory and practice. Cambridge University Press, 2011. [Cambridge University Press](https://www.cambridge.org/ir/academic/subjects/engineering/communications-and-signal-processing/applied-digital-signal-processing-theory-and-practice?format=HB)  
+- Downey, Allen B. Think DSP: digital signal processing in Python. " O'Reilly Media, Inc.", 2016. [github](https://github.com/AllenDowney/ThinkDSP)  
+- Unpingco, José. Python for Signal Processing. Springer International Pu, 2016.[springer](https://www.springer.com/gp/book/9783319013411)
 
 # Grading Policy
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/fghaderi/fghaderi.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fghaderi/fghaderi.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Three homeworks (15% each): mix of conceptual and programming based questions
+Midterm: 15%
+Course Project: 40%
+Proposal: 5%
+Progress Report: 10%
+Poster Presentation: 10%
+Final Report: 15%
