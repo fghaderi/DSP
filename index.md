@@ -30,7 +30,9 @@ Tentative, periodically updated throughout the semester
 
 
 # BOOKS AND REFERENCES
-
+o Manolakis, Dimitris G., and Vinay K. Ingle. Applied digital signal processing: theory and practice. Cambridge University Press, 2011. [Cambridge University Press](https://www.cambridge.org/ir/academic/subjects/engineering/communications-and-signal-processing/applied-digital-signal-processing-theory-and-practice?format=HB)  
+o Downey, Allen B. Think DSP: digital signal processing in Python. " O'Reilly Media, Inc.", 2016. [github](https://github.com/AllenDowney/ThinkDSP)  
+o Unpingco, José. Python for Signal Processing. Springer International Pu, 2016.[springer](https://www.springer.com/gp/book/9783319013411)
 
 # Grading Policy
 ## Welcome to GitHub Pages
