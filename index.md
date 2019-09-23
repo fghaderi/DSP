@@ -34,10 +34,7 @@ Tentative, periodically updated throughout the semester
 
 # Grading Policy
 
-
-Three homeworks (15% each): mix of conceptual and programming based questions
-
-Homeworks: 15%
-Project: 20%
-Midterm: 30%
-Final exam: 35%
+Homeworks: 15%  
+Project: 20%  
+Midterm: 30%  
+Final exam: 35%  
