@@ -36,9 +36,8 @@ Tentative, periodically updated throughout the semester
 
 
 Three homeworks (15% each): mix of conceptual and programming based questions
-Midterm: 15%
-Course Project: 40%
-Proposal: 5%
-Progress Report: 10%
-Poster Presentation: 10%
-Final Report: 15%
+
+Homeworks: 15%
+Project: 20%
+Midterm: 30%
+Final exam: 35%
