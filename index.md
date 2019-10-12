@@ -17,9 +17,9 @@ In the era that many aspects of human life can be muasured using different senso
 
 # Syllabus  
 Tentative, periodically updated throughout the semester  
-- Introduction [slide1](https://github.com/fghaderi/files/blob/master/1_Introduction.pdf)
-- Signals and Systems [slide2](https://github.com/fghaderi/files/blob/master/2_Signals%20and%20systems.pdf)
-- Z transform [slide3](http://cloud.modares.ac.ir/public.php?service=files&t=a30b6268ae771fdfd985834701a32873)
+- Introduction [slide1](https://fghaderi.github.io/DSP/slides/1_Introduction.pdf)
+- Signals and Systems [slide2](https://fghaderi.github.io/DSP/slides/2_Signals and systems.pdf)
+- Z transform [slide3](https://fghaderi.github.io/DSP/slides/3_Z-ransform.pdf)
 - Fourier representation of signals [slide4](http://cloud.modares.ac.ir/public.php?service=files&t=e81ded0f65fd541c46fad6be82590c06)
 - Transform analysis of LTI systems [slide5](http://cloud.modares.ac.ir/public.php?service=files&t=4ba50c84b470d16c1bcba22664e69f10)
 - Sampling of continuous-time signals [slide6](http://cloud.modares.ac.ir/public.php?service=files&t=1bc96cb81123553274f0eba3e8cf1519)
