@@ -26,6 +26,7 @@ Tentative, periodically updated throughout the semester
 - Design of FIR filters [slide7](http://cloud.modares.ac.ir/public.php?service=files&t=6c4f868b0af3e366d765a4df84338637)
 - Design of IIR filters [slide8](http://cloud.modares.ac.ir/public.php?service=files&t=a8b3717fc43c7ca57829a2085a82fac5)
 
+Sample python codes used in the lectures [codes](https://github.com/fghaderi/DSP/tree/master/code)
 
 # BOOKS AND REFERENCES
 - Manolakis, Dimitris G., and Vinay K. Ingle. Applied digital signal processing: theory and practice. Cambridge University Press, 2011. [Cambridge University Press](https://www.cambridge.org/ir/academic/subjects/engineering/communications-and-signal-processing/applied-digital-signal-processing-theory-and-practice?format=HB)  
