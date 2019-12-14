@@ -21,8 +21,8 @@ Tentative, periodically updated throughout the semester
 - Signals and Systems [slide2](https://fghaderi.github.io/DSP/slides/2_Signals_and_systems.pdf)
 - Z transform [slide3](https://fghaderi.github.io/DSP/slides/3_Z-ransform.pdf)
 - Fourier representation of signals [slide4](https://github.com/fghaderi/DSP/blob/master/slides/4_Fourier_representation_of_signals.pdf)
-- Transform analysis of LTI systems [slide5](http://cloud.modares.ac.ir/public.php?service=files&t=4ba50c84b470d16c1bcba22664e69f10)
-- Sampling of continuous-time signals [slide6](http://cloud.modares.ac.ir/public.php?service=files&t=1bc96cb81123553274f0eba3e8cf1519)
+- Transform analysis of LTI systems [slide5](https://github.com/fghaderi/DSP/blob/master/slides/5_Transform_analysis_of_LTI_systems.pdf)
+- Sampling of continuous-time signals [slide6](https://github.com/fghaderi/DSP/blob/master/slides/6_Sampling_of_continuous-time_signals.pdf)
 - Design of FIR filters [slide7](http://cloud.modares.ac.ir/public.php?service=files&t=6c4f868b0af3e366d765a4df84338637)
 - Design of IIR filters [slide8](http://cloud.modares.ac.ir/public.php?service=files&t=a8b3717fc43c7ca57829a2085a82fac5)
 
