@@ -20,11 +20,11 @@ Tentative, periodically updated throughout the semester
 - Introduction [slide1](https://fghaderi.github.io/DSP/slides/1_Introduction.pdf)
 - Signals and Systems [slide2](https://fghaderi.github.io/DSP/slides/2_Signals_and_systems.pdf)
 - Z transform [slide3](https://fghaderi.github.io/DSP/slides/3_Z-ransform.pdf)
-- Fourier representation of signals [slide4](https://github.com/fghaderi/DSP/blob/master/slides/4_Fourier_representation_of_signals.pdf)
-- Transform analysis of LTI systems [slide5](https://github.com/fghaderi/DSP/blob/master/slides/5_Transform_analysis_of_LTI_systems.pdf)
-- Sampling of continuous-time signals [slide6](https://github.com/fghaderi/DSP/blob/master/slides/6_Sampling_of_continuous-time_signals.pdf)
-- Design of FIR filters [slide7](http://cloud.modares.ac.ir/public.php?service=files&t=6c4f868b0af3e366d765a4df84338637)
-- Design of IIR filters [slide8](http://cloud.modares.ac.ir/public.php?service=files&t=a8b3717fc43c7ca57829a2085a82fac5)
+- Fourier representation of signals [slide4](https://fghaderi.github.io/DSP/slides/4_Fourier_representation_of_signals.pdf)
+- Transform analysis of LTI systems [slide5](https://fghaderi.github.io/DSP/slides/5_Transform_analysis_of_LTI_systems.pdf)
+- Sampling of continuous-time signals [slide6](https://fghaderi.github.io/DSP/slides/6_Sampling_of_continuous-time_signals.pdf)
+- Design of FIR filters [slide7](https://fghaderi.github.io/DSP/slides/7_Design_of_FIR_filters.pdf)
+- Design of IIR filters [slide8](https://fghaderi.github.io/DSP/slides/8_Design_of_IIR_filters.pdf)
 
 Sample python codes used in the lectures [codes](https://github.com/fghaderi/DSP/tree/master/code)
 
